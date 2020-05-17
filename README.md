@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Built With
 MERN Stack
-![MERN Stack](https://mail.google.com/mail/?tab=im&authuser=0)
+![MERN Stack](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 
 * [React](https://reactjs.org) - The web framework used
 * [Node/Express](https://expressjs.com) - Backend framework
