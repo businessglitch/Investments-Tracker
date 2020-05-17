@@ -24,19 +24,48 @@ What things you need to install the software and how to install them
 - Clone this repo to your local machine using `https://github.com/businessglitch/Investments-Tracker.git`
 
 #### Setup
+> move in to the project directory
 
-> update and install this package first
+```shell
+$ cd Investments-Tracker
+```
+
+> create config.env file in config folder
+
+```shell
+$ cd config
+$ touch config.env
+```
+place the following content in your config.env file
+```
+NODE_ENV=development
+PORT=5000
+MONGO_URI=mongodb+srv://{username}:{password}@{database}-e9zhx.mongodb.net/investments?retryWrites=true&w=majority
+QT_ACCESSTOKEN=https://login.questrade.com/oauth2/token?grant_type=refresh_token&refresh_token={refreshToken}
+```
+> update all the packages
 
 ```shell
 $ brew update
-$ brew install fvcproductions
 ```
 
-> now install npm and bower packages
+> install server side dependencies
 
 ```shell
 $ npm install
-$ bower install
+```
+
+> install client side dependencies
+
+```shell
+$ cd client
+$ npm install
+```
+
+> run the application
+In the root directory
+```shell
+$ npm run dev
 ```
 ---
 
