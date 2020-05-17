@@ -1,68 +1,80 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Investments Tracker
+One Paragraph of project description goes here {Place architecture diagram here}
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### `yarn start`
+### Built With
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+### Prerequisites
+What things you need to install the software and how to install them
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+- All the `code` required to get started
+- Images of what it should look like
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Clone
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Clone this repo to your local machine using `https://github.com/...`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Setup
 
-### `yarn eject`
+> update and install this package first
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```shell
+$ brew update
+$ brew install fvcproductions
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> now install npm and bower packages
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```shell
+$ npm install
+$ bower install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+> To get started...
 
-### Code Splitting
+### Step 1
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- **Option 1**
+    - 🍴 Fork this repo!
 
-### Analyzing the Bundle Size
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/...`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Step 2
 
-### Making a Progressive Web App
+- **HACK AWAY!** 🔨🔨🔨
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Step 3
 
-### Advanced Configuration
+- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`...`</a>.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+---
 
-### Deployment
+## Support
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Reach out to me at one of the following places!
 
-### `yarn build` fails to minify
+- Instagram at <a href="https://www.instagram.com/fahoodii_h/" target="_blank">`@fahoodii_h`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/fahdhayat/" target="_blank">`Fahad Hayat`</a>
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
