@@ -18,9 +18,8 @@ MERN Stack
 ### Prerequisites
 What things you need to install the software and how to install them
 
-
-- All the `code` required to get started
-- Images of what it should look like
+- Sign up on Mongo DB. Create a database with login credentials. 
+- Sign up on Quest Trade and create an API access token. 
 
 #### Clone
 
